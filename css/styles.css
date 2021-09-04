@@ -6,7 +6,7 @@ body{
   font-family: 'Red Hat Display', sans-serif;
   color: #58668d;
   line-height: 1.5rem;
-  min-width: 400px;
+  min-width: 325px;
 }
 
 h1{
@@ -113,7 +113,7 @@ a{
   width: 36%;
   border-radius: 25px;
   background-color: white;
-  min-width: 400px;
+  min-width: 325px;
 }
 
 .annualplan{
